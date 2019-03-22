@@ -12,3 +12,15 @@
 - [geonames]() http://www.geonames.org/ontology#
 - [gr]() http://purl.org/goodrelations/v1#
 - [prov]() http://www.w3.org/ns/prov#
+- [dc]()  http://purl.org/dc/elements/1.1/
+- [dcterm]() http://purl.org/dc/terms/
+- [sioc]() http://rdfs.org/sioc/ns#
+- [mo]() http://musicontology.com/
+- [MarineTLO]()  http://ics.forth.gr/Ontology/MarineTLO/icore#  http://ics.forth.gr/Ontology/MarineTLO/imarine#
+- [schema]() http://schema.org/
+- [Spar](http://www.sparontologies.net/ontologies)
+- yago
+- dbpedia
+- http://aber-owl.net/ontology/#/
+
+- [ontology list](http://info.slis.indiana.edu/~dingying/Teaching/S604/OntologyList.html)
