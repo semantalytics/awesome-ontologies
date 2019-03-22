@@ -5,9 +5,10 @@
 - [rdfs](http://www.w3.org/2000/01/rdf-schema) http://www.w3.org/2000/01/rdf-schema#
 - [owl](http://www.w3.org/2002/07/owl) http://www.w3.org/2002/07/owl#
 - [skos](https://www.w3.org/2004/02/skos/core.rdf) http://www.w3.org/2004/02/skos/core#
-- [skosxl]()
-- [dcat]()
-- [org]()
-- [vcard]()
-- [geonames]()
-- [gr]()
+- [skosxl]() http://www.w3.org/2008/05/skos-xl#
+- [dcat]() http://http://www.w3.org/ns/org#www.w3.org/ns/dcat#
+- [org]() http://www.w3.org/ns/org#
+- [vcard]() http://www.w3.org/2006/vcard/ns#
+- [geonames]() http://www.geonames.org/ontology#
+- [gr]() http://purl.org/goodrelations/v1#
+- [prov]() http://www.w3.org/ns/prov#
