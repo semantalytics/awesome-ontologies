@@ -24,3 +24,4 @@
 - http://aber-owl.net/ontology/#/
 
 - [ontology list](http://info.slis.indiana.edu/~dingying/Teaching/S604/OntologyList.html)
+- [ontology design patterns](http://ontologydesignpatterns.org/wiki/Ontology:Main)
