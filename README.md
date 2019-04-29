@@ -37,3 +37,4 @@
 - [AGROVOC](http://aims.fao.org/vest-registry/vocabularies/agrovoc)
 - [STW Thesaurus](http://zbw.eu/stw/)
 - [UNESCO Thesaurus](http://skos.um.es/unescothes/)
+- https://www.w3.org/2001/sw/wiki/SKOS/Datasets
