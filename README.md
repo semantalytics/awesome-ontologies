@@ -30,3 +30,10 @@
 
 ## Cyber
 - [UCO](https://github.com/ucoProject/UCO)
+
+
+## SKOS
+
+- [AGROVOC](http://aims.fao.org/vest-registry/vocabularies/agrovoc)
+- [STW Thesaurus](http://zbw.eu/stw/)
+- [UNESCO Thesaurus](http://skos.um.es/unescothes/)
